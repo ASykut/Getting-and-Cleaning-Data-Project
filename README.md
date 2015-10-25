@@ -23,4 +23,4 @@ The included run_analysis.R script extracts and creates a tidy data set with the
 
 6. Finally, an independent tidy data set is created by melting the data set, grouping by subject and activity, and applying mean to all other variables. This is then cast back into a long format and the tidy_data_set.txt is produced. The tidy data set provides a single row per subject/activity for further analysis.
 
-Further description of the tidy_data_set.txt can be located in the codebook.txt file of this Repository.
+Further description of the tidy_data_set.txt can be located in the codebook.txt (https://github.com/ASykut/Getting-and-Cleaning-Data-Project/blob/master/codebook.txt) file of this Repository.
