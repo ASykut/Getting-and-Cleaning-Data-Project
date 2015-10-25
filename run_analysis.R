@@ -1,18 +1,18 @@
 
 ##install "reshape" package to pivot features rows into columns for naming
-install.packages("reshape")
+##install.packages("reshape")
 library(reshape)
 
 ##install "dplyr" package to select mean and std dev columns
-install.packages("dplyr")
+##install.packages("dplyr")
 library(dplyr)
 
 ##install "plyr
-install.packages("plyr")
+##install.packages("plyr")
 library(plyr)
 
 ##install "reshape"
-install.packages("reshape2")
+##install.packages("reshape2")
 library(reshape2)
 
 ##identify all important filenames Assumes data has been extracted into UCI HAR Dataset folder in Working Directory
