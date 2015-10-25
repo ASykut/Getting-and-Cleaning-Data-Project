@@ -9,7 +9,13 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The included run_analysis.R script extracts and creates a tidy data set with the following steps:
+
+The included run_analysis.R script extracts and creates a tidy data set.
+
+run_analysis.R expects the following packages to be pre-installed: reshape, dplyr, plyr, reshape2 
+The installation of these packages is commented out in the R script but can be uncommented for installation.
+
+The script performs the following:
 
 1. Loads the train and test data files supplied in the referenced zip folder.
 
